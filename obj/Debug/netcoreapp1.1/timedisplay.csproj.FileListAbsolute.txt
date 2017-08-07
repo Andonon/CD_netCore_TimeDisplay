@@ -1,0 +1,8 @@
+C:\Users\centertr01\dojo\c\timedisplay\bin\Debug\netcoreapp1.1\timedisplay.deps.json
+C:\Users\centertr01\dojo\c\timedisplay\bin\Debug\netcoreapp1.1\timedisplay.runtimeconfig.json
+C:\Users\centertr01\dojo\c\timedisplay\bin\Debug\netcoreapp1.1\timedisplay.runtimeconfig.dev.json
+C:\Users\centertr01\dojo\c\timedisplay\bin\Debug\netcoreapp1.1\timedisplay.dll
+C:\Users\centertr01\dojo\c\timedisplay\bin\Debug\netcoreapp1.1\timedisplay.pdb
+C:\Users\centertr01\dojo\c\timedisplay\obj\Debug\netcoreapp1.1\timedisplay.AssemblyInfo.cs
+C:\Users\centertr01\dojo\c\timedisplay\obj\Debug\netcoreapp1.1\timedisplay.dll
+C:\Users\centertr01\dojo\c\timedisplay\obj\Debug\netcoreapp1.1\timedisplay.pdb
